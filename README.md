@@ -7,7 +7,7 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Economic Analyst
 As a passionate data scientist with a strong foundation in computing and information systems from Queen Mary University of London, I'm continually driven to explore the intricacies of data and its power to influence decision-making. My academic and professional journey has taken me through a diverse set of experiences, from analyzing financial markets to enhancing machine learning models for better predictive accuracy.
 
 * 🌍  I'm based in London, England
-* 🤝  I'm open to collaborating on nteresting projects that challenge the norm and seek innovative solutions, particularly those focusing on data-driven strategies for real-world impact.
+* 🤝  I'm open to collaborating on interesting projects that challenge the norm and seek innovative solutions, particularly those focusing on data-driven strategies for real-world impact.
 
 ### Skills
 
