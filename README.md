@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atul George Thomas
 ==========================================================================================================================================
 
-Aspiring Data Scientist | Machine Learning Enthusiast | Economic Analyst
+Aspiring Data Scientist | Machine Learning Enthusiast | Economic Analyst| Data Analyst
 ------------------------------------------------------------------------
 
 As a passionate data scientist with a strong foundation in computing and information systems from Queen Mary University of London, I'm continually driven to explore the intricacies of data and its power to influence decision-making. My academic and professional journey has taken me through a diverse set of experiences, from analyzing financial markets to enhancing machine learning models for better predictive accuracy.
