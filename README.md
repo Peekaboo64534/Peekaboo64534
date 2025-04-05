@@ -4,17 +4,41 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Scientist | Machine Learning Enthusiast | Economic Analyst| Data Analyst
 ------------------------------------------------------------------------
 
-As a passionate data scientist with a strong foundation in computing and information systems from Queen Mary University of London, I'm continually driven to explore the intricacies of data and its power to influence decision-making. My academic and professional journey has taken me through a diverse set of experiences, from analyzing financial markets to enhancing machine learning models for better predictive accuracy.
+ ### 💡 Professional Philosophy
+I transform complex data challenges into intelligent solutions, bridging the gap between raw information and actionable insights. My approach combines rigorous technical skills with creative problem-solving.
 
-* 🌍  I'm based in London, England
-* 🤝  I'm open to collaborating on interesting projects that challenge the norm and seek innovative solutions, particularly those focusing on data-driven strategies for real-world impact.
+### 🔍 Project Domains
+- **Financial Markets**: Predictive modeling, algorithmic trading strategies
+- **Energy Analytics**: Time series forecasting, market trend analysis
+- **Data Engineering**: Scalable data pipelines, advanced feature engineering
 
-### Skills
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
+### 🌟 Highlighted Projects
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+#### 1. Amazon Stock Returns Predictor
+- Built a CatBoost machine learning model for stock return prediction
+- Implemented advanced feature engineering techniques
+- Achieved 41% return variability explanation
+
+#### 2. Contract Data Mapping System
+- Developed end-to-end data extraction and mapping solution using Pandas
+- Created scalable data processing pipeline
+- Implemented intelligent text parsing algorithms
+
+### 🎯 Key Strengths
+- Advanced Time Series Analysis
+- Machine Learning Model Development
+- Feature Engineering
+- Data Pipeline Architecture
+
+### 🌱 Always Learning
+Passionate about pushing the boundaries of data science, continuously exploring new technologies and methodologies.
 
 
 ### Socials
